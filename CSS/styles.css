@@ -39,7 +39,7 @@ header h2::before{
     bottom: -20px;
     width: 100px;
     height: 100px;
-    background: url(img/globe.png) no-repeat;
+    background: url(../img/globe.png) no-repeat;
 }
 
 header img{
@@ -51,7 +51,7 @@ header img{
     z-index: 2; 
 }
 
-.blue{
+.azul{
     color: #22659e;
 }
 
@@ -83,7 +83,7 @@ button{
     color: #ffffff;
 }
 
-h2 .blue{
+.blue{
 background:linear-gradient(#6398c4,#4782b3,#23669e)
 }
 
@@ -103,7 +103,7 @@ background:linear-gradient(#6398c4,#4782b3,#23669e)
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     width: 200px;
-    background-image: url(img/ad_background.png);
+    background-image: url(../img/ad_background.png);
 }
 
 .image img{
